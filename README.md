@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello👋🏻<br>20 years old Turkish student, studying in Computer Programming
+Hello👋🏻<br>21 years old Turkish student, studying in Computer Programming
 
 
 # 💻 Tech Stack:
