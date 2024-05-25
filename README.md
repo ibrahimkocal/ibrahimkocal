@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello👋🏻<br>21 years old Turkish student, studying in Computer Programming
+Hello👋🏻<br>22 years old Turkish student, studying in Computer Programming
 
 
 ## 🌐 Socials:
